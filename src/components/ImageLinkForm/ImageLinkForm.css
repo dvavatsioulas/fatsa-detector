@@ -181,3 +181,9 @@
     opacity: .8;
     transition: opacity .15s ease-out;
 }
+
+#mygit{
+    width: max-content;
+    text-align: center;
+    display: inline-block;
+}

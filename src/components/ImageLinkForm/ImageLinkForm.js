@@ -3,7 +3,9 @@ import './ImageLinkForm.css';
 const ImageLinkForm = ({ onInputChange, onSubmit }) => {
     return (
         <div>
-            <a href="https://www.github.com/dvavatsioulas/"><h3 className='near-black' >created by @dvavatsioulas</h3></a>
+            <div id='mygit'>
+              <a href="https://www.github.com/dvavatsioulas/"><h3 className='near-black' >created by @dvavatsioulas</h3></a>
+            </div>
             <p className='f3'>
 
                 {'FatsaDetector detects faces in your images.'}
