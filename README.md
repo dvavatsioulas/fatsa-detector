@@ -1,3 +1,4 @@
+# FatsaDetector
 <h3>A face detection web app, built with Node.js.  
 React & Bootstrap is used for the front-end part.  
 Clarifai API is used for the face detection part.</h3>
