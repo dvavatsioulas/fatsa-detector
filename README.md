@@ -8,5 +8,5 @@ In order to run the web app on your machine:
 • Install <b>node.js</b>  
 • Download my repo and unzip  
 • Run CMD, change working directory to the folder in which you unzipped, and then run: <b>npm install</b>  in order to install the package dependencies.  
-• Run: <b>npm start</b> to start the local server
+• Run: <b>npm start</b> to start the local server  
 • Ready!
