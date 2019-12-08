@@ -1,5 +1,5 @@
 # FatsaDetector
-<b> Try the app online on: <a href="https://fatsadetector.herokuapp.com/">fatsadetector.herokuapp.com</a> </b>
+<b> Try the app online at: <a href="https://fatsadetector.herokuapp.com/">fatsadetector.herokuapp.com</a> </b>
 <h3>A face detection web app, built with Node.js.  
 React & Bootstrap is used for the front-end part.  
 Clarifai API is used for the face detection part.</h3>
